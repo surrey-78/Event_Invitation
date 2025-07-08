@@ -1,0 +1,31 @@
+.body-style {
+    background-color: #e8f08f;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.invite-card {
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #e5ff00;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.event-image {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.contact-footer {
+    text-align: center;
+    font-size: 0.9em;
+    border-top: 1px solid #ccc;
+    background-color: #f3fe78;
+    padding: 15px 0;
+    margin-top: 30px;
+}
